@@ -68,7 +68,7 @@ export default function Estimator() {
 
   const { rows, sub, gst, total, advance, warnings } = calc();
 
-  const WA = "https://wa.me/917508400002?text=";
+  const WA = "https://wa.me/919877943901?text=";
   const msg = rows.length
     ? `Hi LUMORA, I would like a quotation for:\n${rows.map(r => `- ${r.label}: ${inr(r.amount)}`).join("\n")}\nEstimated total incl. GST: ${inr(total)}`
     : "";

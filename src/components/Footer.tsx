@@ -16,7 +16,7 @@ export default function Footer() {
           </div>
           <div className="text-right">
             <p>www.lumoralightup.com &middot; info@lumoralightup.com</p>
-            <p className="mt-1">WhatsApp +91 75084 00002 &middot; @lumora.lightup</p>
+            <p className="mt-1">WhatsApp +91 98779 43901 &middot; @lumora.lightup</p>
             <p className="mt-1">All prices exclude GST @18% &middot; transportation at actuals</p>
           </div>
         </div>
@@ -24,7 +24,7 @@ export default function Footer() {
 
       {/* Floating WhatsApp button */}
       <a
-        href="https://wa.me/917508400002?text=Hi%20LUMORA%2C%20I%27d%20like%20LED%20screens%20on%20rent%20for%20my%20event."
+        href="https://wa.me/919877943901?text=Hi%20LUMORA%2C%20I%27d%20like%20LED%20screens%20on%20rent%20for%20my%20event."
         target="_blank"
         rel="noopener noreferrer"
         className="fixed right-5 bottom-5 z-50 w-[58px] h-[58px] rounded-full bg-[#25d366] grid place-items-center shadow-[0_10px_30px_rgba(37,211,102,0.4)] hover:scale-110 transition-transform"

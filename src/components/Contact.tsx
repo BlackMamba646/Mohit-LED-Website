@@ -3,7 +3,7 @@
 import { useState, type FormEvent } from "react";
 import AnimateIn from "./AnimateIn";
 
-const WA = "https://wa.me/917508400002?text=";
+const WA = "https://wa.me/919877943901?text=";
 
 export default function Contact() {
   const [sent, setSent] = useState(false);
@@ -49,7 +49,7 @@ export default function Contact() {
                 </p>
 
                 <div className="flex flex-col gap-3 mt-6">
-                  <ContactRow label="WhatsApp / Call" value="+91 75084 00002" />
+                  <ContactRow label="WhatsApp / Call" value="+91 98779 43901" />
                   <ContactRow label="Email" value="info@lumoralightup.com" isEmail />
                   <div className="flex items-center gap-3 flex-wrap font-bold">
                     <span className="text-[var(--color-muted)]">Instagram</span>
